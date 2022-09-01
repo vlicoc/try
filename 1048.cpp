@@ -1,0 +1,11 @@
+1001 zhangsan 66 67 69
+1002 lisi 72 73 38
+1003 wangwu 92 90 23
+1004 laoliu 100 12 33
+1005 wuqi  18 48 99
+1006  jiajiu 27 77 89
+1007 idwdwi  48 85 87
+1008 ekjdhu 66 27 99
+1009 njscnb 38 98 99
+1010 mckdkx 99 99 7
+
